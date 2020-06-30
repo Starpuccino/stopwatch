@@ -4,6 +4,6 @@ a simple stopwatch wxpython based
 
 `cd ./stopwatch`
 
-`pip3 install wxpython`
+`pip3 install -U wxPython`
 
 `python3  app.py`
